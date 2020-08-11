@@ -1,0 +1,7 @@
+node_modules
+src/database/database.sqlite
+images/*.jpg
+
+.env
+yarn.lock
+package-lock.json
